@@ -3,7 +3,7 @@
 public class MyAccessModifiers
 {
     private int birthYear;
-    public string personalInfo; 
+    public string personalInfo;
     protected internal string IdNumber;
     public static byte averageMiddleAge = 50;
     internal string Name;
@@ -14,8 +14,8 @@ public class MyAccessModifiers
         this.birthYear = birthYear;
         this.IdNumber = idNumber;
         this.personalInfo = personalInfo;
-        this.Name = ""; 
-        this.NickName = ""; 
+        this.Name = "";
+        this.NickName = "";
     }
 
     public int Age
@@ -59,7 +59,7 @@ class Program
         bool hasLivedHalf = person.HasLivedHalfOfLife();
         Console.WriteLine($"Has lived half of life: {hasLivedHalf}");
 
-        Console.WriteLine($"Personal Info: {person.personalInfo}"); 
+        Console.WriteLine($"Personal Info: {person.personalInfo}");
         Console.WriteLine($"ID Number: {person.IdNumber}");
 
         MyAccessModifiers person2 = new MyAccessModifiers(1990, "ID123456", "John Doe");

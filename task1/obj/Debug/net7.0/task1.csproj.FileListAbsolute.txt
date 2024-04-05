@@ -1,0 +1,15 @@
+C:\progr\lnu_2024_pma22_n19\task1\bin\Debug\net7.0\task1.exe
+C:\progr\lnu_2024_pma22_n19\task1\bin\Debug\net7.0\task1.deps.json
+C:\progr\lnu_2024_pma22_n19\task1\bin\Debug\net7.0\task1.runtimeconfig.json
+C:\progr\lnu_2024_pma22_n19\task1\bin\Debug\net7.0\task1.dll
+C:\progr\lnu_2024_pma22_n19\task1\bin\Debug\net7.0\task1.pdb
+C:\progr\lnu_2024_pma22_n19\task1\obj\Debug\net7.0\task1.csproj.AssemblyReference.cache
+C:\progr\lnu_2024_pma22_n19\task1\obj\Debug\net7.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\progr\lnu_2024_pma22_n19\task1\obj\Debug\net7.0\task1.AssemblyInfoInputs.cache
+C:\progr\lnu_2024_pma22_n19\task1\obj\Debug\net7.0\task1.AssemblyInfo.cs
+C:\progr\lnu_2024_pma22_n19\task1\obj\Debug\net7.0\task1.csproj.CoreCompileInputs.cache
+C:\progr\lnu_2024_pma22_n19\task1\obj\Debug\net7.0\task1.dll
+C:\progr\lnu_2024_pma22_n19\task1\obj\Debug\net7.0\refint\task1.dll
+C:\progr\lnu_2024_pma22_n19\task1\obj\Debug\net7.0\task1.pdb
+C:\progr\lnu_2024_pma22_n19\task1\obj\Debug\net7.0\task1.genruntimeconfig.cache
+C:\progr\lnu_2024_pma22_n19\task1\obj\Debug\net7.0\ref\task1.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\progr\\c#\\korkuna2\\korkuna2.csproj": {}
+    "C:\\progr\\lnu_2024_pma22_n19\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\progr\\c#\\korkuna2\\korkuna2.csproj": {
+    "C:\\progr\\lnu_2024_pma22_n19\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\progr\\c#\\korkuna2\\korkuna2.csproj",
-        "projectName": "korkuna2",
-        "projectPath": "C:\\progr\\c#\\korkuna2\\korkuna2.csproj",
+        "projectUniqueName": "C:\\progr\\lnu_2024_pma22_n19\\task2\\task2.csproj",
+        "projectName": "task2",
+        "projectPath": "C:\\progr\\lnu_2024_pma22_n19\\task2\\task2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\progr\\c#\\korkuna2\\obj\\",
+        "outputPath": "C:\\progr\\lnu_2024_pma22_n19\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

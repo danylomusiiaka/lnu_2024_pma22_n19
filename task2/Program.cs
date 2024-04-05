@@ -1,6 +1,4 @@
-﻿using System;
-
-public class Employee
+﻿public class Employee
 {
     internal string name;
     private DateTime hiringDate;
@@ -77,6 +75,6 @@ class Program
 
         Tester tester2 = new Tester("Solya", new DateTime(2014, 3, 15), false);
         tester2.ShowInfo();
-        
+
     }
 }

@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = korkuna2
-build_property.ProjectDir = c:\progr\lnu_2024_pma22_n19\task2\
+build_property.RootNamespace = task1
+build_property.ProjectDir = C:\progr\lnu_2024_pma22_n19\task1\

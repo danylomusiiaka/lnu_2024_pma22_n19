@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\progr\\lnu_2024_pma22_n19\\task1\\app.csproj",
-      "projectName": "app",
-      "projectPath": "C:\\progr\\lnu_2024_pma22_n19\\task1\\app.csproj",
+      "projectUniqueName": "C:\\progr\\lnu_2024_pma22_n19\\task1\\task1.csproj",
+      "projectName": "task1",
+      "projectPath": "C:\\progr\\lnu_2024_pma22_n19\\task1\\task1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\progr\\lnu_2024_pma22_n19\\task1\\obj\\",
       "projectStyle": "PackageReference",
